@@ -1,0 +1,36 @@
+.loginForm input{
+    width: 420px;
+    padding: 15px 0px;
+    margin-top: 20px;
+}
+.login-area{
+    box-shadow: 5px 5px 5px silver;
+    text-align: center;
+    width: 500px;
+    padding: 30px;
+    background-color:white;
+}
+.login-area1{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+   
+}
+.loginSubmitButton{
+    background-color: #41B3A3;
+    padding: 15px 0px;
+    border: none;
+    color:white;
+    font-size: 20px;
+    font-weight: 700;
+}
+.login-background{
+        background-color:lavenderblush;
+        height: 650px;
+  
+}
+input{
+    border: none;
+    background-color:ghostwhite;
+    border-bottom: 1px solid silver;
+}
